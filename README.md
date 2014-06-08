@@ -1,5 +1,5 @@
 Gradle tut
-======
+=====
 Some sample app to check how Gradle works.
 
 Installation
